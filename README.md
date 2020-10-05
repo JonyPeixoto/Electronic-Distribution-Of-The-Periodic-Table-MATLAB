@@ -893,7 +893,7 @@ if f1==1;
     fprintf(''),Zn
 end
 if f1==2;
-    fprintf(''),Cd
+    fprintf(''),Cd  
 end
 if f1==3;
     fprintf(''),Hg
@@ -909,4 +909,4 @@ end
 end
 end
 end
-end
+end 
